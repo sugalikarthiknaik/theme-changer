@@ -1,0 +1,17 @@
+ *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        button{
+            padding: 10px;
+            display: block;
+            margin: auto;
+        }
+        .dark{
+            background-color: #111827;
+            color: white;
+        }
+        h1{
+            text-align: center;
+        }
